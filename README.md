@@ -4,13 +4,13 @@ All Credits to this channel : https://www.youtube.com/watch?v=4iFALQ1ACdA
 
 Topic:	Problem: 	Done [yes or no] 
 		<->
-Array	Reverse the array	<->
-Array	Find the maximum and minimum element in an array	<->
-Array	Find the "Kth" max and min element of an array 	<->
-Array	Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo	<->
-Array	Move all the negative elements to one side of the array 	<->
-Array	Find the Union and Intersection of the two sorted arrays.	<->
-Array	Write a program to cyclically rotate an array by one.	<->
+1.Array	Reverse the array	<->
+1.Array	Find the maximum and minimum element in an array	<->
+1.Array	Find the "Kth" max and min element of an array 	<->
+1.Array	Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo	<->
+1.Array	Move all the negative elements to one side of the array 	<->
+1.Array	Find the Union and Intersection of the two sorted arrays.	<->
+1.Array	Write a program to cyclically rotate an array by one.	<->
 Array	find Largest sum contiguous Subarray [V. IMP]	<->
 Array	Minimise the maximum difference between heights [V.IMP]	<->
 Array	Minimum no. of Jumps to reach end of an array	<->
