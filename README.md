@@ -3,6 +3,17 @@
 All Credits to this channel : https://www.youtube.com/watch?v=4iFALQ1ACdA
 
 
+Contributions : 
+
+Hello Devs, can you help me make this list in proper format. Scroll down to see what I mean. 
+Also i need your help making this problems external links. 
+All these problems below have a link for them in the sheet [here](./FINAL450.xlxs)
+ 1. You have to open this sheet.
+ 2. Get the problem link
+ 3. Write in the readme.md file against the same problem.
+ 4. Example : [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+ 
+
     Done  | Topic   |    Problem:                    
     ------|---------| ------------------------------------------------------------------------------------------------------------- 
      []   | Array   | Reverse the array
