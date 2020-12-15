@@ -16,7 +16,7 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xlx
 
     Done  | Topic   |    Problem:                    
     ------|---------| ------------------------------------------------------------------------------------------------------------- 
-     []   | Array   | Reverse the array
+     []   | Array   | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
      []   | Array   | Find the maximum and minimum element in an array
      []   | Array   | Find the "Kth" max and min element of an array
      []   | Array   | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo 
