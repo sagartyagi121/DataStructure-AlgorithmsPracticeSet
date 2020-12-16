@@ -3,7 +3,7 @@
 All Credits to this channel : https://www.youtube.com/watch?v=4iFALQ1ACdA
 
 
-Contributions : 
+### Contributions : 
 
 Hello Devs, can you help me make this list in proper format. Scroll down to see what I mean. 
 Also i need your help making this problems external links. 
@@ -13,6 +13,11 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xls
  3. Write in the readme.md file against the same problem.
  4. Example : [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
  
+ ### Task Markings :
+ 
+- [ ] Not Done
+- [x] Done
+
 
     Done  | Topic   |    Problem:                    
     ------|---------| ------------------------------------------------------------------------------------------------------------- 
@@ -477,18 +482,7 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xls
      []   | Bit Manipulation | Copy set bits in a range	 
      []   | Bit Manipulation | Divide two integers without using multiplication, division and mod operator	 
      []   | Bit Manipulation | Calculate square of a number without using *, / and pow()	 
-     -[]   | Bit Manipulation | Power Set	 
+     -[ ]   | Bit Manipulation | Power Set	 
 
 
 
-### Solar System Exploration, 1950s – 1960s
-
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
