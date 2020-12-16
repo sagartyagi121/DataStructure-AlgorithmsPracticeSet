@@ -7,7 +7,7 @@ Contributions :
 
 Hello Devs, can you help me make this list in proper format. Scroll down to see what I mean. 
 Also i need your help making this problems external links. 
-All these problems below have a link for them in the sheet [here](./FINAL450.xlxs)
+All these problems below have a link for them in the sheet [here](./FINAL450.xlsx)
  1. You have to open this sheet.
  2. Get the problem link
  3. Write in the readme.md file against the same problem.
