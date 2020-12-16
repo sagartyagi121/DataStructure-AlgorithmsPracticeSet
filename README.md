@@ -481,5 +481,14 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xls
 
 
 
- - [] todo 1 
--[] todo 2 
+### Solar System Exploration, 1950s – 1960s
+
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
