@@ -15,13 +15,13 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xls
  
  ### Task Markings :
  
-- [ ] Not Done
-- [x] Done
+<ul><li>[ ]</li></ul>Not Done
+<ul><li>[x]</li></ul> Done
 
 
     Done  | Topic   |    Problem:                    
     ------|---------| ------------------------------------------------------------------------------------------------------------- 
-    |<ul><li>[x] item1</li></ul>  | Array   | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+    |<ul><li>[x]</li></ul>  | Array   | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
      []   | Array   | [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
      []   | Array   | Find the "Kth" max and min element of an array
      []   | Array   | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo 
