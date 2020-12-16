@@ -17,7 +17,7 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xls
     Done  | Topic   |    Problem:                    
     ------|---------| ------------------------------------------------------------------------------------------------------------- 
      [x]   | Array   | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
-     []   | Array   | Find the maximum and minimum element in an array
+     []   | Array   | [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
      []   | Array   | Find the "Kth" max and min element of an array
      []   | Array   | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo 
      []   | Array   | Move all the negative elements to one side of the array
@@ -478,3 +478,8 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xls
      []   | Bit Manipulation | Divide two integers without using multiplication, division and mod operator	 
      []   | Bit Manipulation | Calculate square of a number without using *, / and pow()	 
      []   | Bit Manipulation | Power Set	 
+
+
+
+ [] todo 1 
+[] todo 2 
