@@ -482,7 +482,7 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xls
      []   | Bit Manipulation | Copy set bits in a range	 
      []   | Bit Manipulation | Divide two integers without using multiplication, division and mod operator	 
      []   | Bit Manipulation | Calculate square of a number without using *, / and pow()	 
-     - [ ]   | Bit Manipulation | Power Set	 
+    | - [ ]   | Bit Manipulation | Power Set |	 
 
 
 
