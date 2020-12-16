@@ -15,13 +15,13 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xls
  
  ### Task Markings :
  
-<ul><li>[ ]</li></ul>Not Done
-<ul><li>[x]</li></ul> Done
+  [ ] Not Done
+  [x] Done
 
 
     Done  | Topic   |    Problem:                    
     ------|---------| ------------------------------------------------------------------------------------------------------------- 
-    |<ul><li>[x]</li></ul>  | Array   | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+     [x]  | Array   | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
      []   | Array   | [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
      []   | Array   | Find the "Kth" max and min element of an array
      []   | Array   | Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo 
@@ -482,7 +482,7 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xls
      []   | Bit Manipulation | Copy set bits in a range	 
      []   | Bit Manipulation | Divide two integers without using multiplication, division and mod operator	 
      []   | Bit Manipulation | Calculate square of a number without using *, / and pow()	 
-     | <ul><li>[ ] item1</li></ul>   | Bit Manipulation | Power Set |	 
+     [ ]  | Bit Manipulation | Power Set |	 
 
 
 
