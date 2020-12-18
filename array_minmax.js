@@ -19,9 +19,14 @@ function minmax(arr){
       } else {
           pair.max = arr[index];
       }
-    
-  }
+ 
+    // alternate solution 
+    //  pair.min = arr[ind] <= pair.min ?  arr[ind] : pair.min;
+    //  pair.max = arr[ind] >= pair.max ?  arr[ind] : pair.max;
 
+  }
+  
+ 
     return pair;
 
 }
