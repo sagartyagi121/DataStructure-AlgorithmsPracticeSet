@@ -34,3 +34,12 @@ function minmax(arr){
 let newmm = minmax(arrNew);
 console.log(newmm);
 
+
+
+// sol 2 
+
+let array = [1000, 11, 445, 1, 330, 3000];
+minValue = Math.min(...array);
+maxValue = Math.max(...array);
+
+
