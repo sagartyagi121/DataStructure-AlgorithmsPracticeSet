@@ -28,7 +28,7 @@ All these problems below have a link for them in the sheet [here](./FINAL450.xls
     ------|---------| ------------------------------------------------------------------------------------------------------------- 
      [x]  | Array   | [Reverse the array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
      [x]  | Array   | [Find the maximum and minimum element in an array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
-     [X]  | Array   | [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
+     [x]  | Array   | [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
      [ ]  | Array   | [Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo ](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/) 
      [ ]  | Array   | Move all the negative elements to one side of the array
      [ ]  | Array   | Find the Union and Intersection of the two sorted arrays.
