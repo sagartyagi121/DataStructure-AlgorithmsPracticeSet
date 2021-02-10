@@ -1,7 +1,8 @@
-# DataStructure-AlgorithmsPracticeSet  [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+# DataStructure-AlgorithmsPracticeSet 
 
 All Credits to this channel : https://www.youtube.com/watch?v=4iFALQ1ACdA
 
+ [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 ### Contributions : 
 
