@@ -108,3 +108,14 @@ pair = getMinMax(arr);
 console.log('nMinimum element is :' + pair.min);
 console.log(`nMaximum element is : ${pair.max}`);
  
+// sol 4 
+
+const array = [1,2,3];
+
+// in this case, the 'this' keyword doesn't matter!
+function getMaxNumber(arr){
+  return Math.max.apply(null, arr);  
+}
+
+getMaxNumber(array)
+
